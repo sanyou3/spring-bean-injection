@@ -12,9 +12,9 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.stereotype.Component;
 
 /**
- * 基于xml声明Bean的方式
+ * 微信公众号：三友的java日记
  *
- * @author yisuan
+ * @author sanyou
  * @date 2023/1/28 21:04
  */
 @EnableFeignClients

@@ -5,9 +5,9 @@ import org.springframework.beans.factory.config.BeanFactoryPostProcessor;
 import org.springframework.beans.factory.config.ConfigurableListableBeanFactory;
 
 /**
- * TODO
+ * 微信公众号：三友的java日记
  *
- * @author yisuan
+ * @author sanyou
  * @date 2023/1/29 23:44
  */
 public class RegisterUserBeanFactoryPostProcessor implements BeanFactoryPostProcessor {

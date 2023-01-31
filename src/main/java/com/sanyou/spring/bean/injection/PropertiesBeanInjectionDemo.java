@@ -6,9 +6,9 @@ import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 
 /**
- * TODO
+ * 微信公众号：三友的java日记
  *
- * @author yisuan
+ * @author sanyou
  * @date 2023/1/28 21:30
  */
 public class PropertiesBeanInjectionDemo {

@@ -8,9 +8,9 @@ import org.springframework.beans.factory.support.BeanDefinitionRegistry;
 import org.springframework.beans.factory.support.BeanDefinitionRegistryPostProcessor;
 
 /**
- * TODO
+ * 微信公众号：三友的java日记
  *
- * @author yisuan
+ * @author sanyou
  * @date 2023/1/29 22:04
  */
 public class UserBeanDefinitionRegistryPostProcessor implements BeanDefinitionRegistryPostProcessor {

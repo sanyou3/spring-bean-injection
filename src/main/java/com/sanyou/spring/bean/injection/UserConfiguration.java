@@ -5,9 +5,9 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 
 /**
- * TODO
+ * 微信公众号：三友的java日记
  *
- * @author yisuan
+ * @author sanyou
  * @date 2023/1/28 23:32
  */
 @Configuration
